@@ -48,6 +48,8 @@ Repositories tagged with [`doc-sanitiser-ecosystem`](https://github.com/search?q
 | [gitleaks-validator](https://github.com/xarta/gitleaks-validator) | Dockerised gitleaks wrapper — pattern-driven secret scanning and replacement via REST API. |
 | [knowledge-service](https://github.com/xarta/knowledge-service) | Document ingestion into SeekDB (vector database) with RAG query interface. Composes chunking + embedding services. |
 | [content-analyser](https://github.com/xarta/content-analyser) | Duplication detection and contradiction analysis across document sets. Composes chunking, embedding, and LLM services. |
+| [file-service](https://github.com/xarta/file-service) | File operations REST API — read, write, archive, copy, move. Safety-constrained path access for containerised pipeline services. |
+| [sanitiser-dashboard](https://github.com/xarta/sanitiser-dashboard) | Pipeline dashboard UI and logging API — receives structured events, timing, and request logs from pipeline services. |
 
 ### Future Direction
 
